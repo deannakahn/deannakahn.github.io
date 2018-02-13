@@ -1,1 +1,2 @@
-h1.style.color="yellow";
+document.getElementById('special');
+special.style.color="blue";
